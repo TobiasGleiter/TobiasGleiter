@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working at E. ZOLLER GmbH & Co. KG | studying at Cooperative University Stuttgart
 - 🌱 I’m currently learning Next.js 13
-- 📫 Explore my [portfolio website](tobiasgleiter.de)
+- 📫 Explore my [portfolio website](https://tobiasgleiter.de)
 <!--
 **TobiasGleiter/TobiasGleiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
