@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working at [E. ZOLLER GmbH & Co. KG](https://www.zoller.info/de/home) | studying at [Cooperative University Stuttgart](https://www.dhbw-stuttgart.de)
-- 🌱 I’m currently learning [ReactNative](https://reactnative.dev)
+- 🌱 Focus on [Next.js]([https://reactnative.dev](https://nextjs.org))
 - 📫 Explore my [portfolio website](https://tobiasgleiter.de)
 <!--
 **TobiasGleiter/TobiasGleiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
