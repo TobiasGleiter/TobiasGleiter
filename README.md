@@ -1,5 +1,3 @@
-![Header](./tobiasgleiter-banner.png)
-
 ### Hi there 👋
 - 🔭 I’m currently working at [E. ZOLLER GmbH & Co. KG](https://www.zoller.info/de/home) | studying at [Cooperative University Stuttgart](https://www.dhbw-stuttgart.de)
 - 🌱 Focus on [Next.js](https://nextjs.org) and [Golang](https://go.dev)
