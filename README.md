@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working at [E. ZOLLER GmbH & Co. KG](https://www.zoller.info/de/home) | studying at [Cooperative University Stuttgart](https://www.dhbw-stuttgart.de)
-- 🌱 Focus on [Next.js](https://nextjs.org) and [Golang](https://go.dev)
+- 🔭 I’m currently working at [E. ZOLLER GmbH & Co. KG](https://www.zoller.info/de/home) as Web Software Developer
+- 💻 Studied Computer Science at [Cooperative University Stuttgart](https://www.dhbw-stuttgart.de)
+- 🌱 Focus on [Golang](https://go.dev), HTML5/CSS/JS and Web-Components
 - 📫 Explore my [portfolio website](https://tobiasgleiter.de)
 <!--
 **TobiasGleiter/TobiasGleiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
