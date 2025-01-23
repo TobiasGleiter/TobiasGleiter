@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at [E. ZOLLER GmbH & Co. KG](https://www.zoller.info/de/home) as Web Software Developer
+- 🔭 I’m currently working at [ZOLLER Inc](https://www.zoller.info/us/home) as Web Software Developer
 - 💻 Studied Computer Science at [Cooperative University Stuttgart](https://www.dhbw-stuttgart.de)
 - 🌱 Focus on [Golang](https://go.dev), HTML5/CSS/JS and Web-Components
 - 📫 Explore my [portfolio website](https://tobiasgleiter.de)
